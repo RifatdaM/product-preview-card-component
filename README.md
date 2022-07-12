@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/RifatdaM/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://62cd1401898bb73ff6bf0546--silver-cuchufli-931eb6.netlify.app/)
 
 ## My process
 

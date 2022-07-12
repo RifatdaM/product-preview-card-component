@@ -635,6 +635,10 @@ video {
   height: 1.25rem;
 }
 
+.h-full{
+  height: 100%;
+}
+
 .w-\[360px\]{
   width: 360px;
 }
@@ -680,6 +684,11 @@ video {
 .bg-Dark-cyan{
   --tw-bg-opacity: 1;
   background-color: hsl(158 36% 37% / var(--tw-bg-opacity));
+}
+
+.object-cover{
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .p-6{
